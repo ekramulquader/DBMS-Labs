@@ -133,3 +133,4 @@ INSERT INTO Invoice (inv_no, mv_no, cust_id, issue_date, return_date) VALUES
 ('i08', '9',  'a01', '11-Aug-93', '14-Aug-93'),
 ('i09', '5',  'a03', '06-Jul-93', '07-Jul-93'),
 ('i10', '8',  'a06', '03-Sep-93', '06-Sep-93');
+
