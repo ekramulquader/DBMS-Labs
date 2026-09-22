@@ -25,4 +25,4 @@ SQLite CLI is used to execute the SQL scripts.
 Run an assignment from PowerShell:
 
 ```powershell
-Get-Content assignment1.sql | sqlite3 assignment1.db
+Get-Content assignment1.sql | sqlite3 main.db
